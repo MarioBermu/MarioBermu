@@ -1,4 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Mario
+
+Telecommunications Engineering graduate focused on backend development and distributed systems.  
+I enjoy building practical projects with a strong emphasis on clean architecture, scalability and maintainability.
+
+### 🛠️ Technologies & Tools
+- Backend: Node.js, Python
+- APIs: REST, JSON
+- Cloud & DevOps: Docker, basic AWS concepts
+- Databases: MongoDB, relational databases
+- Others: Git, Linux
+
+### 🚀 Featured Projects
+- **MotoWeb** – Full-stack platform for motorcyclists, focused on scalable backend APIs and route management.
+- **Pract1SD** – Distributed systems practice developed in Python.
+- **WeatherGlyphMatrix** – Android/Kotlin project using custom hardware APIs.
+
+### 🎯 Current Focus
+- Backend development
+- Distributed systems
+- Cloud-oriented architectures
+
+### 📫 Contact
+- LinkedIn: *(add link)*
+- Email: *(optional but recommended)*
 
 <!--
 **MarioBermu/MarioBermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
