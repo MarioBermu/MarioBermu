@@ -21,7 +21,7 @@ I enjoy building practical projects with a strong emphasis on clean architecture
 - Cloud-oriented architectures
 
 ### 📫 Contact
-- LinkedIn: *[(add link)](https://www.linkedin.com/in/mario-bermudez-montolio-131a7036b/)*
+- LinkedIn: *[(Mario Bermudez Montolio)](https://www.linkedin.com/in/mario-bermudez-montolio-131a7036b/)*
 - Email: *mbermudezmontolio@gmail.com*
 
 <!--
