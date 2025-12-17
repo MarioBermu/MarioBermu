@@ -21,8 +21,8 @@ I enjoy building practical projects with a strong emphasis on clean architecture
 - Cloud-oriented architectures
 
 ### 📫 Contact
-- LinkedIn: *(add link)*
-- Email: *(optional but recommended)*
+- LinkedIn: *[(add link)](https://www.linkedin.com/in/mario-bermudez-montolio-131a7036b/)*
+- Email: *mbermudezmontolio@gmail.com*
 
 <!--
 **MarioBermu/MarioBermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
